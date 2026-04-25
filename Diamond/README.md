@@ -60,7 +60,7 @@ For each test case output a single line containing either string `yes` if there 
 <br/> 1 d e
 <br/> 0 e
 
-# Sample output Sample output Sample output Sample output
+# Sample output
 <br/>yes
 <br/>no
 <br/>yes
