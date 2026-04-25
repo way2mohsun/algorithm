@@ -61,9 +61,9 @@ For each test case output a single line containing either string `yes` if there 
 . 0 e
 
 # Sample output Sample output Sample output Sample output
-. yes
-. no
-. yes
-. yes
+<br/>yes
+<br/>no
+<br/>yes
+<br/>yes
 
 
