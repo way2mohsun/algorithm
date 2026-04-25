@@ -37,33 +37,33 @@ A list contains all the libraries Alternatively, you can use a JSON input file w
 For each test case output a single line containing either string `yes` if there is a diamond dependency or `no` if there is none.
 
 # Sample input 
-4
-4
-2 A B C
-1 B D
-1 C D
-0 D
-5
-2 new old basic
-0 old
-2 better old alternative
-1 alternative basic
-0 basic
-3
-2 simple number integer
-1 integer number
-0 number
-5
-2 a b c
-1 b d
-1 c e
-1 d e
-0 e
+. 4
+. 4
+. 2 A B C
+. 1 B D
+. 1 C D
+. 0 D
+. 5
+. 2 new old basic
+. 0 old
+. 2 better old alternative
+. 1 alternative basic
+. 0 basic
+. 3
+. 2 simple number integer
+. 1 integer number
+. 0 number
+. 5
+. 2 a b c
+. 1 b d
+. 1 c e
+. 1 d e
+. 0 e
 
 # Sample output Sample output Sample output Sample output
-yes
-no
-yes
-yes
+. yes
+. no
+. yes
+. yes
 
 
